@@ -1,6 +1,7 @@
 # Codejam
 
 [![Build Status](https://travis-ci.com/hayatoito/codejam.svg?branch=master)](https://travis-ci.com/hayatoito/codejam)
+[![crates.io](https://img.shields.io/crates/v/codejam.svg)](https://crates.io/crates/codejam)
 
 A library and example solutions for Google Code Jam programming contest, written
 in Rust.
